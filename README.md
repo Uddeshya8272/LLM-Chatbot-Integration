@@ -117,5 +117,9 @@ if input_text2:
 
 ![WhatsApp Image 2024-06-17 at 22 21 28_b8b9d8e8](https://github.com/Uddeshya8272/LLM-Chatbot-Integration/assets/118058617/1851709b-a423-4688-94a8-798e9332a74c)
 
+After all these things, question may be arises that how to track the responses. Yeah exactly by such beautiful and helping software by langchain, langsmith
+![image](https://github.com/Uddeshya8272/LLM-Chatbot-Integration/assets/118058617/d2821dc9-00f5-4763-ad4e-6726c32ffea8)
+
+
 
 
